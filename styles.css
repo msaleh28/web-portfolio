@@ -1,0 +1,20 @@
+#title-heading{
+    color:green;
+    text-align:center;
+    font-family: 'Open Sans', sans-serif;
+}
+/* #navigation-bar{
+    background-color: lightblue;
+} */
+nav ul{
+    text-align: center;
+    list-style-type: none;
+}
+nav li{
+    display: inline;
+}
+nav a{
+    background-color: lightblue;
+    text-decoration: none;
+    color: blue;
+}
