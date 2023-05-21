@@ -6,9 +6,13 @@
 /* #navigation-bar{
     background-color: lightblue;
 } */
+nav{
+    text-align: center;
+}
 nav ul{
     text-align: center;
     list-style-type: none;
+    display: inline-block;
 }
 nav li{
     display: inline;
@@ -17,4 +21,9 @@ nav a{
     background-color: lightblue;
     text-decoration: none;
     color: blue;
+}
+.pfp{
+    border:5px solid #000000; 
+    padding:3px; 
+    margin:5px
 }
